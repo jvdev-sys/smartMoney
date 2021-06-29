@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873159724759",
+    "project_id": "smartmoney-test",
+    "storage_bucket": "smartmoney-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873159724759:android:80214f8ea5edd7f6b72a92",
+        "android_client_info": {
+          "package_name": "br.com.jorgeveiga.smartmoney_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873159724759-7e3jcr7p44a3b367qhqlv146sertta2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByp9FZD0w0R3XJvcStC2gDr1Tn56g_EuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873159724759-7e3jcr7p44a3b367qhqlv146sertta2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
